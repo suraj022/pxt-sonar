@@ -1,0 +1,22 @@
+{
+    "name": "sonar",
+    "version": "0.0.5",
+    "description": "A MakeCode package to use sonar sensors",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "arduino-zero": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "tsprj"
+}
